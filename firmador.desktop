@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=FirmaEC
+Comment=FirmaECipc21 ModStandAlone
+Exec=/usr/share/firmaec/firmador %u
+Icon=/usr/share/firmaec/firmadigital.ico
+Terminal=false
+StartupNotify=false
+X-Desktop-file-Install-Version=0.26
