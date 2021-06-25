@@ -31,7 +31,11 @@ $ cd /home/USUARIO/ESCRITORIO #acceder al escritorio del usuario al que se le va
 <br>
 $ git clone https://github.com/PCDCfranklin/firmaec_solucion_PARAMETRO.git
 <br>
-$ chmod 755 firmador.desktop
+$ cp /firmaec_solucion_PARAMETROS/firmador.desktop ~/Escritorio/
 <br>
+$ rm -Rf firmaec_solucion_PARAMETROS/
+<br>
+$ chmod 755 firmador.desktop
+<br><br>
 
 AHORA ES POSIBLE EJECUTAR EL FIRMADOR CON EL LANZADOR CREADO EN EL ESCRITORIO
