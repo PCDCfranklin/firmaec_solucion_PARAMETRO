@@ -31,7 +31,7 @@ $ cd /home/USUARIO/ESCRITORIO #acceder al escritorio del usuario al que se le va
 <br>
 $ git clone https://github.com/PCDCfranklin/firmaec_solucion_PARAMETRO.git
 <br>
-$ cp /firmaec_solucion_PARAMETROS/firmador.desktop ~/Escritorio/
+$ cp firmaec_solucion_PARAMETROS/firmador.desktop ~/Escritorio/
 <br>
 $ rm -Rf firmaec_solucion_PARAMETROS/
 <br>
