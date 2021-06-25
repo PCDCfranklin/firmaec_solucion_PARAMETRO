@@ -25,3 +25,13 @@ La solucion, para usuarios entendidos en el entorno linux seria abrir una termin
 <br>
 Para el caso de usuarios finales, es necesario corregir o crear un lanzador en el escritorio del usuario. Para ello vamos a realizar los siguientes pasos:
 <br>
+$ sudo apt install git
+<br>
+$ cd /home/USUARIO/ESCRITORIO #acceder al escritorio del usuario al que se le va a habilitar el entorno grafico del firmador
+<br>
+$ git clone https://github.com/PCDCfranklin/firmaec_solucion_PARAMETRO.git
+<br>
+$ chmod 755 firmador.desktop
+<br>
+
+AHORA ES POSIBLE EJECUTAR EL FIRMADOR CON EL LANZADOR CREADO EN EL ESCRITORIO
