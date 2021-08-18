@@ -1,4 +1,4 @@
-# firmaec_solucion_PARAMETRO
+# Solucion firmaec "Se debe enviar un parámetro"
 Mi solución al "Error: Se debe enviar un parámetro"
 
 
